@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caltest1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_add_event_single">Add Event</string>
+    <string name="button_add_event_recurring">Add Recurring Event</string>
+    <string name="title_activity_add_event">AddEventActivity</string>
+    <string name="button_add">Add</string>
+
+</resources>
